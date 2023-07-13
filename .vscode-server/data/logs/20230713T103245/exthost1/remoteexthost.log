@@ -1,0 +1,16 @@
+2023-07-13 10:32:46.618 [info] Extension host with pid 875 started
+2023-07-13 10:32:46.640 [info] Lock '/home/rdchabi/.vscode-server/data/User/workspaceStorage/b244cbcf900663fdfcdf2946b9665ed1/vscode.lock': Lock acquired.
+2023-07-13 10:32:46.688 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-13 10:32:46.689 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-07-13 10:32:47.232 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-13 10:32:47.244 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-13 10:32:47.244 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-13 10:32:47.425 [info] Eager extensions activated
+2023-07-13 10:32:47.425 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-13 10:32:47.425 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-13 10:32:47.426 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-07-13 10:33:01.427 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-13 10:33:01.428 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-13 10:33:49.294 [info] Extension host terminating: received terminate message from renderer
+2023-07-13 10:33:49.295 [info] Lock '/home/rdchabi/.vscode-server/data/User/workspaceStorage/b244cbcf900663fdfcdf2946b9665ed1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-07-13 10:33:49.339 [info] Extension host with pid 875 exiting with code 0
